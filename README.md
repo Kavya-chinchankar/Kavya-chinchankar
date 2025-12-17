@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Kavya Krishna Chinchankar 👋  <br><br>M.Tech Cybersecurity student & Full-stack Developer  <br>Specializing in **Python, Flask, React, Django, and MERN stack** ⚡  <br><br>💼 Experience: 10+ real-world projects & internships  <br>🔒 Passionate about **secure authentication, threat detection & scalable apps**  <br>🌱 Lifelong learner | Open-source contributor | Always exploring new tech  <br>☕ Coffee lover | 🐛 Bug slayer | Turning code into impact  <br><br>Let’s build something secure, scalable, and awesome together!<br>
+Hi, I’m Kavya Krishna Chinchankar 👋  <br><br>M.Tech Cybersecurity student & Full-stack Developer  <br>Specializing in **Python, Flask, React, Django, and MERN stack** ⚡  <br><br>💼 Experience: 10+ real-world projects & internships  <br>🔒 Passionate about **secure authentication, threat detection & scalable apps**  <br>🌱 Lifelong learner | Open-source contributor | Always exploring new tech  <br> | Turning code into impact  <br><br>Let’s build something secure, scalable, and awesome together!<br>
 
 
 ## 🌐 Socials:
